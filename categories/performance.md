@@ -2,5 +2,4 @@
 
 | Date | Lesson | Severity | Fix |
 |------|--------|----------|-----|
-
-*FE กำลัง optimize SharedProposal speed — จะ contribute เมื่อเสร็จ*
+| 2026-03-20 | [Sequential Supabase Queries](../lessons/2026-03-20_sequential-supabase-queries.md) | HIGH | Parallelize with Promise.all — 11 sequential → 2 phases |
